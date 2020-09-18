@@ -4423,6 +4423,18 @@ h6 {
 
 /*# sourceMappingURL=style.css.map */
 
+
+.logo {
+  width:80px;
+  border : 1px solid white;
+  background:white;
+  border-collapse: separate;
+  height:70px;
+  border-radius:50%;  
+}
+
 .logo-menu {
-    height: 70px;
+  height : 55px;
+  margin-left:12px;
+  margin-top:3px;
 }
